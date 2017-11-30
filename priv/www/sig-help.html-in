@@ -263,11 +263,12 @@
 			Enter the details for a new subscriber and select the <b>SUBMIT</b>
 			button. If the <b>Generate</b> check-box is selected for <b>Identity</b>
 			or <b>Password</b> OCS will create unique values which will be provided
-			in a dialog after the request is successful.</p> <h3>Update a Subscriber</h3>
+			in a dialog after the request is successful.</p>
+			<h3>Update a Subscriber</h3>
 			<p>Selecting a row in the Subscriber view will open a dialog allowing
-			updating any fields. There are two tabs in the dialog toolbar used to
-			select <b>Authentication</b> or <b>Authorization</b> fields. After
-			providing new values in either or both tabs select the <b>UPDATE</b>
+			updating any fields. There are three tabs in the dialog toolbar used to
+			select <b>Authentication</b>, <b>Authorization</b> or <b>Credit</b> fields.
+			After providing new values in those tabs select the <b>UPDATE</b>
 			button.</p>
 			<h3>Delete a Subscriber</h3>
 			<p>Selecting a row in the Subscriber view will open a dialog which
